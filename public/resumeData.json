@@ -113,6 +113,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "hulu Clone (Next-JS)",
+        "category": "",
+        "image": "hulu.png",
+        "url": "https://hulu-clone-xi-wheat.vercel.app/"
+      },
+      {
         "title": "Netflix App (React-JS)",
         "category": "",
         "image": "netflix.jpg",
