@@ -115,7 +115,7 @@
       {
         "title": "Netflix App (React-JS)",
         "category": "",
-        "image": "NETFLIX.jpg",
+        "image": "netflix.jpg",
         "url": "https://dreamy-meninsky-4d3cd3.netlify.app/"
       },
       {
@@ -133,7 +133,7 @@
       {
         "title": "Covid-19-tracker (React-JS)",
         "category": "",
-        "image": "covid19-tracker.jpg",
+        "image": "covid-tracker.jpg",
         "url": "https://covid-19-tracker-16970.web.app/"
       },
       {
@@ -141,6 +141,18 @@
         "category": "",
         "image": "whatsapp.jpg",
         "url": "https://whatsapp-clone-oomaar.vercel.app/"
+      },
+      {
+        "title": "Google Clone (Next-JS & Tailwind-CSS)",
+        "category": "",
+        "image": "google.jpg",
+        "url": "https://google-clone-tailwind-delta.vercel.app/"
+      },
+      {
+        "title": "Twitter Clone (React-JS)",
+        "category": "",
+        "image": "twitter.jpg",
+        "url": "https://twitter-4e819.web.app/"
       }
     ]
   },
